@@ -1,4 +1,4 @@
-# Entry Level Software Engineer Jobs
+# Entry Level Software Engineer Jobs (United States)
 
 This data is updated weekly, with filled postings removed. All jobs are sourced from [algojobs.io](https://algojobs.io/).
 
